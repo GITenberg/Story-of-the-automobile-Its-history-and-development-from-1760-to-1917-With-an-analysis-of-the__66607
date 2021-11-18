@@ -1,0 +1,26 @@
+_repo: Story-of-the-automobile-Its-history-and-development-from-1760-to-1917-With-an-analysis-of-the__66607
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barber, H. L. (Herbert Lee)
+    alias: Barber, Herbert Lee
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '53881'
+    url: http://www.gutenberg.org/2009/agents/53881
+description: ''
+gutenberg_issued: '2021-10-24'
+identifiers:
+  gutenberg: '66607'
+  lccn: '17016907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Automobiles -- History'
+- !lcc 'TL'
+- GITenberg
+title: "Story of the automobile: Its history and development from 1760 to 1917\r\n\
+  With an analysis of the standing and prospects of the automobile industry"
+url: http://www.gutenberg.org/ebooks/66607
