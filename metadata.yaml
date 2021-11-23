@@ -1,5 +1,8 @@
 _repo: Story-of-the-automobile-Its-history-and-development-from-1760-to-1917-With-an-analysis-of-the__66607
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66607-h/images/cover.jpg
 creator:
   author:
     agent_name: Barber, H. L. (Herbert Lee)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53881'
     url: http://www.gutenberg.org/2009/agents/53881
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66607#Story-of-the-automobile-Its-history-and-development-from-1760-to-1917-With-an-analysis-of-the_
 gutenberg_issued: '2021-10-24'
 identifiers:
   gutenberg: '66607'
